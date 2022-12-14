@@ -21,10 +21,11 @@ SkyText是由奇点智源发布的中文GPT3预训练大模型，可以进行聊
   
   
 
-## 安装
+## 依赖
 
-```shell
-pip install -r requirement.txt
+```
+推荐
+transformers>=4.16.0
 ```
 
 ## 模型使用
