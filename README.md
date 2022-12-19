@@ -25,7 +25,7 @@ SkyText是由奇点智源发布的中文GPT3预训练大模型，可以进行聊
 
 ```
 推荐
-transformers>=4.16.0
+transformers>=4.18.0
 ```
 
 ## 模型使用
