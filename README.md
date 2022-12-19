@@ -50,6 +50,8 @@ print(text_generator(input_str, max_new_tokens=max_new_tokens, do_sample=True))
 ## huggingface模型主页
 一百四十亿参数模型
 https://huggingface.co/SkyWork/SkyText
+
+
 三十亿参数模型
 https://huggingface.co/SkyWork/SkyTextTiny
 
