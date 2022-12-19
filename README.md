@@ -36,7 +36,7 @@ from transformers import GPT2LMHeadModel
 from transformers import AutoTokenizer
 from transformers import TextGenerationPipeline
 
-# 以 SkyWork/SkyText(13billions) 为例，还有 SkyWork/SkyTextJunior(2.6billions) 可用， 期待使用
+# 以 SkyWork/SkyText(13billions) 为例，还有 SkyWork/SkyTextTiny(2.6billions) 可用， 期待使用
 
 model = GPT2LMHeadModel.from_pretrained("SkyWork/SkyText")
 tokenizer = AutoTokenizer.from_pretrained("SkyWork/SkyText", trust_remote_code=True)
@@ -51,7 +51,7 @@ print(text_generator(input_str, max_new_tokens=max_new_tokens, do_sample=True))
 一百四十亿参数模型
 https://huggingface.co/SkyWork/SkyText
 三十亿参数模型
-https://huggingface.co/SkyWork/SkyTextJunior
+https://huggingface.co/SkyWork/SkyTextTiny
 
 
 # 版权许可
