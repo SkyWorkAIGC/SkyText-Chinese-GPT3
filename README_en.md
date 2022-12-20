@@ -37,8 +37,14 @@ from transformers import GPT2LMHeadModel
 from transformers import AutoTokenizer
 from transformers import TextGenerationPipeline
 
+# 13Billions
+model = GPT2LMHeadModel.from_pretrained("SkyWork/SkyText")
+tokenizer = AutoTokenizer.from_pretrained("SkyWork/SkyText", trust_remote_code=True)
+
+# or 2.6Billions
 model = GPT2LMHeadModel.from_pretrained("SkyWork/SkyTextTiny")
 tokenizer = AutoTokenizer.from_pretrained("SkyWork/SkyTextTiny", trust_remote_code=True)
+
 text_generator = TextGenerationPipeline(model, tokenizer, device=0)
 input_str = "Today is a "
 max_new_tokens = 20
