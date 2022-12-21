@@ -1,9 +1,32 @@
 # SkyText
 
-SkyText is a Chinese GPT3 pre-trained large model released by Singularity-AI, which can perform different [tasks](https://openapi.singularity-ai.com/index.html#/examplesIndex) such as chatting, Q&A, and Chinese-English translation. SkyText is an open source project of the Chinese GPT3 pre-training model.
+SkyText is a Chinese GPT3 pre-trained large model released by Singularity-AI, which can perform different [tasks](https://openapi.singularity-ai.com/index.html#/examplesIndex) such as chatting, Q&A, and Chinese-English translation. 
 
+![image](https://user-images.githubusercontent.com/120169448/208887507-34db7755-67d6-4807-a43b-ed851c961f8f.png)
 
-## Project Highlights
+Here are some show cases:
+
+# Show cases:
+
+For experience and trial, please visit [Singularity-AI-trail](https://openapi.singularity-ai.com/index.html#/tryoutIndex)
+
+### Chat
+![image](https://user-images.githubusercontent.com/120169448/208884291-f598368d-951a-4356-967a-f0466f8f069f.png)
+
+### Question and answer
+![image](https://user-images.githubusercontent.com/120169448/208884265-55b0cb1c-48a1-4f42-8ea0-6608b5a551af.png)
+
+### Generate recipes：
+input——
+![image](https://user-images.githubusercontent.com/120169448/208884242-29afcd38-2b8e-451b-9f43-e68b5660f435.png)
+
+output——
+![image](https://user-images.githubusercontent.com/120169448/208884206-b58a626e-85de-4c42-81c3-7e4d4c4da634.png)
+
+### Couplet
+![image](https://user-images.githubusercontent.com/120169448/208884185-dd2043d3-d868-41fd-a495-a034fac6e35c.png)
+
+# Project Highlights
 
 1. Technical advantage 1: data cleaning of more than 30 processes
    
@@ -20,7 +43,7 @@ SkyText is a Chinese GPT3 pre-trained large model released by Singularity-AI, wh
 
 - [2022.12.15] [AIGC Press Conference of Singularity-AI](https://live.vhall.com/v3/lives/subscribe/697547540)
   
-  
+——————————————————————————————————————————————————————————————————————
 
 ## Installation
 
