@@ -48,7 +48,7 @@ output——
 
 - [2022.12.15] [AIGC Press Conference of Singularity-AI](https://live.vhall.com/v3/lives/subscribe/697547540)
   
-——————————————————————————————————————————————————————————————————————
+—————————————————————————————————
 
 ## Installation
 
