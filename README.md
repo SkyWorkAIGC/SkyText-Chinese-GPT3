@@ -4,7 +4,12 @@ SkyText is a Chinese GPT3 pre-trained large model released by Singularity-AI, wh
 
 ![image](https://user-images.githubusercontent.com/120169448/208887507-34db7755-67d6-4807-a43b-ed851c961f8f.png)
 
-Here are some show cases:
+#### Hugging Face home pages:
+https://huggingface.co/SkyWork/SkyText
+
+https://huggingface.co/SkyWork/SkyTextTiny
+
+#### Here are some show cases:
 
 # Show cases:
 
