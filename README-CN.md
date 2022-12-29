@@ -4,7 +4,11 @@ SkyText是由奇点智源发布的中文GPT3预训练大模型，可以进行聊
 应用这个模型，除了可以实现基本的聊天、对话、你问我答外，还能支持中英文互译、内容续写、对对联、写古诗、生成菜谱、第三人称转述、创建采访问题等多种功能。
 ![image](https://user-images.githubusercontent.com/120169448/208886238-4c083a21-75be-4368-9f2a-3b80230e04eb.png)
 
-下面是一些示例：
+#### Hugging face 模型主页：
+https://huggingface.co/SkyWork/SkyText
+https://huggingface.co/SkyWork/SkyTextTiny
+
+#### 下面是一些示例：
 
 # 效果示例
 体验和试用，请访问[奇点智源API试用](For experience and trial, please visit https://openapi.singularity-ai.com/index.html#/tryoutIndex)
