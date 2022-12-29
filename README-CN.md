@@ -5,6 +5,15 @@ SkyText是由奇点智源发布的中文GPT3预训练大模型，可以进行聊
 
 ![image](https://user-images.githubusercontent.com/120169448/208886238-4c083a21-75be-4368-9f2a-3b80230e04eb.png)
 
+#### huggingface模型主页
+
+一百四十亿参数模型
+https://huggingface.co/SkyWork/SkyText
+
+
+三十亿参数模型
+https://huggingface.co/SkyWork/SkyTextTiny
+
 
 #### 下面是一些示例：
 
@@ -73,16 +82,6 @@ input_str = "今天是个好天气"
 max_new_tokens = 20
 print(text_generator(input_str, max_new_tokens=max_new_tokens, do_sample=True)) 
 ```
-
-## huggingface模型主页
-
-一百四十亿参数模型
-https://huggingface.co/SkyWork/SkyText
-
-
-三十亿参数模型
-https://huggingface.co/SkyWork/SkyTextTiny
-
 
 # 版权许可
 
