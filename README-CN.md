@@ -12,7 +12,7 @@ https://huggingface.co/SkyWork/SkyTextTiny
 #### 下面是一些示例：
 
 # 效果示例
-体验和试用，请访问[奇点智源API试用](For experience and trial, please visit https://openapi.singularity-ai.com/index.html#/tryoutIndex)
+体验和试用，请访问[奇点智源API试用](https://openapi.singularity-ai.com/index.html#/tryoutIndex)
 
 ### 聊天
 ![image](https://user-images.githubusercontent.com/120169448/208879009-0aefea8b-2183-4b94-b0d0-0351fe3af0d3.png)
