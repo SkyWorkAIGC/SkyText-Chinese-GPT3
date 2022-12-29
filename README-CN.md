@@ -6,6 +6,7 @@ SkyText是由奇点智源发布的中文GPT3预训练大模型，可以进行聊
 
 #### Hugging face 模型主页：
 https://huggingface.co/SkyWork/SkyText
+
 https://huggingface.co/SkyWork/SkyTextTiny
 
 #### 下面是一些示例：
