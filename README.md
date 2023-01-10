@@ -85,6 +85,7 @@ print(text_generator(input_str, max_new_tokens=max_new_tokens, do_sample=True))
 
 # Developer Group
 #### Scan the code below with WeChat to join in the developer group
-![img_v2_5bed8353-a6e9-4f83-b615-68c2c46c611g](https://user-images.githubusercontent.com/120169448/209296283-6f8b1251-ad01-42f2-8037-a1413cb41d9f.png)
+
+![text](https://user-images.githubusercontent.com/120169448/211474572-4e084a69-04d7-4d34-ab93-ef5fc3007b6f.jpg)
 
 
