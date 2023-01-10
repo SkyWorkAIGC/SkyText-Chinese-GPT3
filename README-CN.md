@@ -89,5 +89,7 @@ print(text_generator(input_str, max_new_tokens=max_new_tokens, do_sample=True))
 
 # 加入开发者群
 #### 微信扫码加入开发者群
-![img_v2_5bed8353-a6e9-4f83-b615-68c2c46c611g](https://user-images.githubusercontent.com/120169448/209296389-52a1147c-5326-4e25-afaf-dfe27fbaaade.png)
+
+![text](https://user-images.githubusercontent.com/120169448/211474572-4e084a69-04d7-4d34-ab93-ef5fc3007b6f.jpg)
+
 
