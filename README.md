@@ -7,7 +7,7 @@ SkyText是由奇点智源发布的中文GPT3预训练大模型，可以进行聊
 
 #### huggingface模型主页
 
-一百四十亿参数模型
+一百四十亿参数模型【暂时闭源，即将发布新的百亿参数模型，敬请期待！】
 https://huggingface.co/SkyWork/SkyText
 
 
