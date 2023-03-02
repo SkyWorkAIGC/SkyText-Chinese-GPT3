@@ -93,3 +93,7 @@ print(text_generator(input_str, max_new_tokens=max_new_tokens, do_sample=True))
 ![text](https://user-images.githubusercontent.com/120169448/211474572-4e084a69-04d7-4d34-ab93-ef5fc3007b6f.jpg)
 
 
+#### 感兴趣别忘了star一下~
+
+![image](https://user-images.githubusercontent.com/120169448/222312525-2ef43aae-d8a1-4d3e-ad63-688b9c6bd73b.png)
+
